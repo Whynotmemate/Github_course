@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Ingredients list for no-one
-=======
-# Ingredients ARE HERE
->>>>>>> experimental
 # Chocolade
 # Eggs
 # Milk
